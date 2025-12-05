@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - I am a third-year Software Engineering student specializing in Game Development at FPT University, Ho Chi Minh Campus (2022–2026).
 - Currently deepening my skills in **C#** and **Unity**, with the goal of building a complete small game project by 2026.
@@ -30,7 +30,7 @@
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **AWS First Cloud Journey Internship** (September 2025 - December 2025)
 - Developed frontend for **Serverless Student Management System** using **React** and **TypeScript**
@@ -50,11 +50,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
 
-### 💻 Programming Languages
+### Programming Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -62,18 +62,18 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### 🎨 Frontend Development
+### Frontend Development
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
-### 🎮 Game Development
+### Game Development
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 
-### 🗄️ Database
+### Database
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
-### 🔧 Tools & IDEs
+### Tools & IDEs
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -89,7 +89,7 @@
 
 ---
 
-## 🎯 Soft Skills
+## Soft Skills
 
 <table align="center">
 <tr>
@@ -106,7 +106,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharonNg1029&theme=tokyonight&hide_border=true"/>
@@ -119,27 +119,26 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-[![SWP391 Project](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=SharonNg1029&repo=fptu-fall2025-swp391&theme=tokyonight)](https://github.com/SharonNg1029/fptu-summer2025-swp391)
+[![SWP391 Project](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=SharonNg1029&repo=fptu-summer2025-swp391&theme=tokyonight)](https://github.com/SharonNg1029/fptu-summer2025-swp391)
 
-[![Serverless Student Management](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=SharonNg1029&repo=serverless-student-management-system&theme=tokyonight)](https://github.com/SharonNg1029/serverless-student-management-system-frontend)
+[![Serverless Student Management](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=SharonNg1029&repo=serverless-student-management-system-frontend&theme=tokyonight)](https://github.com/SharonNg1029/serverless-student-management-system-frontend)
 
 
 </div>
 
 ---
 
-## 📬 Get In Touch
+## Get In Touch
 
 <div align="left">
 
-**💼 Work Email:** [ngannkse182088@fpt.edu.vn](mailto:ngannkse182088@fpt.edu.vn)  
-**✉️ Personal Email:** [saoaz1029@gmail.com](mailto:saoaz1029@gmail.com)  
-**📞 Phone:** +84 333 982 942  
-**📍 Location:** Di An City, Binh Dương, Vietnam
+* **Work Email:** [ngannkse182088@fpt.edu.vn](mailto:ngannkse182088@fpt.edu.vn)  
+* **Personal Email:** [saoaz1029@gmail.com](mailto:saoaz1029@gmail.com)  
+* **Phone / WhatsApp / Zalo:** +84 333 982 942  
 
 <br>
 
@@ -149,6 +148,3 @@
 
 ---
 
-⭐️ *From [SharonNg1029](https://github.com/SharonNg1029) with ❤️*
-
-</div>
