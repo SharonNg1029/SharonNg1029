@@ -24,9 +24,9 @@
 - Currently deepening my skills in **C#** and **Unity**, with the goal of building a complete small game project by 2026.
 - **Career Goal:** Become a skilled Software Developer with strong expertise in **game development**, **cloud technologies (AWS)**.
 - **Fun Facts About Me:**
-  + I enjoy listening to all kinds of music 🎶  
-  + After long days, I relax by watching movies with a cup of iced coffee milk ☕  
-  + I'm absolutely a cat lover 😺💕  
+  + I enjoy listening to all kinds of music
+  + After long days, I relax by watching movies with a cup of iced coffee milk
+  + I'm absolutely a cat lover
 
 ---
 
@@ -142,7 +142,7 @@
 
 <br>
 
-**Open to internships, collaborations, or just chatting about code, games, or coffee! 🚀☕**
+**Open to internships, collaborations, or just chatting about code, games, or coffee!**
 
 <br>
 
