@@ -37,9 +37,10 @@
 
 ## About Me
 
-- I am a four-year Software Engineering student specializing in Game Development at FPT University, Ho Chi Minh Campus.
-- Currently deepening my skills in **C#** and **Unity**, with the goal of building a complete small game project by 2026.
-- **Career Goal:** Become a skilled Software Developer with strong expertise in **game development**.
+* Final-year Software Engineering student at FPT University.
+* Focused on Frontend and Mobile Development using ReactJS, TypeScript, and React Native.
+* Interested in building scalable product-oriented applications and strengthening full-stack engineering fundamentals.
+* Currently exploring software architecture, RESTful APIs, databases, and mobile development workflows.
 - **Some Facts:**
   + Enjoy listening to all kinds of music
   + Runs on caffeine, especially iced milk coffee
@@ -68,61 +69,81 @@
 ---
 
 ## Tech Stack
-> **Note:** Technologies are grouped primarily by **proficiency level**. Only those with **real project experience** are marked as **Proficient**. Others are familiar/basic (learned in courses or limited exposure).
 
-### Proficient (Real Project Experience)
+> **Note:** Technologies are grouped by **practical experience and engineering focus**. Technologies listed under **Core Stack** have been used in academic, internship, or personal projects. Others represent technologies currently being explored or used in smaller-scale projects.
+
+### Core Stack (Project Experience)
 
 <div align="center">
 
-#### Frontend & Core Languages
+#### Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-#### Tools & Collaboration
+<br>
+
+#### Software Engineering & Collaboration
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+<br>
+
+#### Development Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-052560?style=for-the-badge&logoColor=white)
 
 </div>
 
-
-### Familiar / Basic (Learned Academically or Limited Hands-on)
+### Programming & Database Technologies
 
 <div align="center">
 
 #### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-#### Game Development & Database
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+<br>
+
+#### Database
+
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-#### Other IDEs & Tools
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-
 </div>
 
----
+### Additional Technologies
 
-## Soft Skills
 <div align="center">
 
-| **Communication**<br>Technical Presentation | **Teamwork**<br>Cross-functional Collaboration | **Time Management**<br>Project Planning |
-|:---:|:---:|:---:|
-| **Adaptability**<br>Self-learning | **Analytical Thinking**<br>Critical Thinking | **Requirements**<br>Gathering & Documentation |
+#### Mobile Development
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+<br>
+
+#### Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+<br>
+
+#### Other Tools
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
@@ -165,7 +186,7 @@
 
 <div align="left">
 
-* **Work Email:** [ngannkse182088@fpt.edu.vn](mailto:ngannkse182088@fpt.edu.vn)  
+* **Work Email:** [ngannnk24@gmail.com](mailto:ngannnk24@gmail.com)  
 * **Personal Email:** [saoaz1029@gmail.com](mailto:saoaz1029@gmail.com)  
 * **Phone / WhatsApp / Zalo:** +84 333 982 942  
 
