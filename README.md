@@ -6,12 +6,13 @@
   
   <br>
   
-  $\tt \Large \color{#7aa2f7} Software \ Engineering \ Student$
+<h3 align="center">
+  <code>Software Engineering Student</code>
+</h3>
 
 
 <br>
 
-![GitHub followers](https://img.shields.io/github/followers/SharonNg1029?style=flat-square&logo=github&logoColor=white&color=667eea&labelColor=1a1b27)
 ![Visitors](https://komarev.com/ghpvc/?username=SharonNg1029&color=667eea&style=flat-square&label=Profile+Views)
 
 <br>
@@ -26,7 +27,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ngngan04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngngan04)
 [![GitLab](https://img.shields.io/badge/GitLab-SharonNg1029-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SharonNg1029)
-[![Email](https://img.shields.io/badge/Email-Work-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngannkse182088@fpt.edu.vn)
+[![Email](https://img.shields.io/badge/Email-Work-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngannnk24@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84333982942)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
