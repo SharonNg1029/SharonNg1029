@@ -38,10 +38,12 @@
 
 ## About Me
 
-* Final-year Software Engineering student at FPT University.
-* Focused on Frontend and Mobile Development using ReactJS, TypeScript, and React Native.
-* Interested in building scalable product-oriented applications and strengthening full-stack engineering fundamentals.
-* Currently exploring software architecture, RESTful APIs, databases, and mobile development workflows.
+## About Me
+
+## About Me
+
+* I'm a final-year Software Engineering student at FPT University, majoring in Game Development. While game dev is my main track, I'm really into Mobile Development right now and actively learning it.
+
 - **Some Facts:**
   + Enjoy listening to all kinds of music
   + Runs on caffeine, especially iced milk coffee
