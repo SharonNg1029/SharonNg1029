@@ -38,10 +38,6 @@
 
 ## About Me
 
-## About Me
-
-## About Me
-
 * I'm a final-year Software Engineering student at FPT University, majoring in Game Development. While game dev is my main track, I'm really into Mobile Development right now and actively learning it.
 
 - **Some Facts:**
@@ -52,6 +48,9 @@
 ---
 
 ## Professional Experience
+
+### **Software Engineer Intern – LAZTAR - Software Company Limited** (August 2026 - Present)
+- Develop mobile applications using **React Native** and **SwiftUI**
 
 ### **AWS First Cloud Journey Internship** (September 2025 - December 2025)
 - Developed frontend for **Serverless Student Management System** using **React** and **TypeScript**
@@ -78,6 +77,13 @@
 ### Core Stack (Project Experience)
 
 <div align="center">
+
+#### Mobile Development
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+<br>
 
 #### Frontend Development
 
@@ -127,14 +133,12 @@
 
 ### Additional Technologies
 
+#### Mobile Development (Basic Knowledge)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 <div align="center">
-
-#### Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-<br>
 
 #### Game Development
 
@@ -164,22 +168,6 @@
 
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=SharonNg1029&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SharonNg1029&theme=tokyonight&hide_border=true&layout=compact"/>
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/SharonNg1029/fptu-summer2025-swp391">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SharonNg1029&repo=fptu-summer2025-swp391&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/SharonNg1029/serverless-student-management-system-frontend">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SharonNg1029&repo=serverless-student-management-system-frontend&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
