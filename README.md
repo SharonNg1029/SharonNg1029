@@ -162,8 +162,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SharonNg1029&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SharonNg1029&theme=tokyonight&hide_border=true&layout=compact"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=SharonNg1029&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SharonNg1029&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </div>
 
@@ -174,11 +174,11 @@
 <div align="center">
 
 <a href="https://github.com/SharonNg1029/fptu-summer2025-swp391">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SharonNg1029&repo=fptu-summer2025-swp391&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SharonNg1029&repo=fptu-summer2025-swp391&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/SharonNg1029/serverless-student-management-system-frontend">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SharonNg1029&repo=serverless-student-management-system-frontend&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SharonNg1029&repo=serverless-student-management-system-frontend&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
